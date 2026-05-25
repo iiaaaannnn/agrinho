@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Sustentabilidade | Agrinho</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="cabecalho">
+        <h1>Transformando o Milho</h1>
+    </header>
+
+    <main class="conteudo-principal">
+        <section class="card">
+            <h2>Bioplástico Inovador</h2>
+            <p>Descubra como o milho se transforma em materiais sustentáveis.</p>
+            <button id="btnSaibaMais" class="btn-primario">Saiba Mais</button>
+        </section>
+    </main>
+
+    <footer class="rodape">
+        <p>&copy; Desenvolvido para o Agrinho 2026.</p>
+    </footer>
+
+    <script src="script.js" defer></script>
+</body>
+</html>
