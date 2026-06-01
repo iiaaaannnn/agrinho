@@ -1,0 +1,11 @@
+document.addEventListener('DOMContentLoaded', () => {
+    const btn = document.getElementById('btnSaibaMais');
+
+    btn.addEventListener('click', () => {
+        // Exemplo simples de funcionalidade
+        alert('O PLA (Ácido Polilático) é feito a partir da fermentação do amido de milho e pode se decompor em até 90 dias em usinas de compostagem!');
+        
+        // Log para desenvolvedores
+        console.log('Interação com bioplástico registrada.');
+    });
+});
