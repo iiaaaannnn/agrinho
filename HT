@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Saiba como a inovação no campo transforma milho em bioplástico sustentável. Projeto Agrinho 2026.">
+    <meta name="keywords" content="Sustentabilidade, Agrinho, Milho, Bioplástico, Inovação">
+    <title>Sustentabilidade | Agrinho 2026</title>
+    
+    <link rel="preload" as="style" href="style.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <a href="#conteudo-principal" class="skip-link">Pular para o conteúdo principal</a>
+
+    <header class="cabecalho">
+        <nav>
+            <h1>Inovação Agrinho 2026</h1>
+        </nav>
+    </header>
+
+    <main id="conteudo-principal" class="conteudo-principal">
+        <article>
+            <section class="hero">
+                <h2>Transformando o Milho em Futuro</h2>
+                <p>O bioplástico derivado do milho é a alternativa renovável aos combustíveis fósseis.</p>
+            </section>
+
+            <section class="card" id="bioplastico">
+                <h3>Bioplástico Inovador</h3>
+                <p>Descubra como o amido de milho se transforma em polímeros biodegradáveis.</p>
+                <button id="btnSaibaMais" class="btn-primario" aria-label="Saiba mais sobre a produção de bioplástico">
+                    Saiba Mais
+                </button>
+            </section>
+
+            <section class="beneficios">
+                <h3>Benefícios Ambientais</h3>
+                <ul>
+                    <li>Redução da pegada de carbono.</li>
+                    <li>Biodegradabilidade em curto prazo.</li>
+                    <li>Fortalecimento da economia rural.</li>
+                </ul>
+            </section>
+
+            <section class="contato">
+                <h3>Dúvidas e Informações</h3>
+                <p>Entre em contato com a equipe técnica: <a href="mailto:contato@agrinho2026.com.br">contato@agrinho2026.com.br</a></p>
+            </section>
+        </article>
+    </main>
+
+    <footer class="rodape">
+        <p>&copy; 2026 - Sustentabilidade no Campo. Desenvolvido para o Concurso Agrinho.</p>
+    </footer>
+
+    <script src="script.js" defer></script>
+</body>
+</html>
